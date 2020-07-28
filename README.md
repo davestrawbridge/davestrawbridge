@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 
+
+Place to dump random projects - mostly C# / .net and websites
+Personal stuff and others waiting until they are good enough to go somewhere better 😁
 
 <!--
 **davestrawbridge/davestrawbridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
